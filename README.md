@@ -7,3 +7,6 @@
 </tr>
 </table>
 
+Live app - 
+https://entertainmenthub.netlify.app/movies
+
